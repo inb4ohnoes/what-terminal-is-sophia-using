@@ -1,6 +1,5 @@
 # What terminal is Sophia using
 
-<img src="ScreenshotNew.png" width="500">
 <img src="Screenshot.png" width="500">
 
 This was taken from [Felix's repo](https://github.com/KrauseFx/what-terminal-is-felix-using).
